@@ -73,6 +73,7 @@ plt.show()
 
 # OUTPUT
 ![download (8)](https://github.com/user-attachments/assets/5434dd89-99c5-4131-a941-2ee2e63d9b24)
+![WhatsApp Image 2025-05-10 at 23 05 43_f65c072d](https://github.com/user-attachments/assets/c93fbe9c-bf53-47c7-82b2-cf1c3bb4bfb4)
 
 # RESULT
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON
