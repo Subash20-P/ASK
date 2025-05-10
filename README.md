@@ -1,4 +1,4 @@
-![download (8)](https://github.com/user-attachments/assets/8cef2c3a-768e-404f-ac1d-853cbd648043)# Amplitude Shift Keying (ASK)
+# Amplitude Shift Keying (ASK)
 
 # Aim
 Write a Python program for the modulation and demodulation of ASK.
